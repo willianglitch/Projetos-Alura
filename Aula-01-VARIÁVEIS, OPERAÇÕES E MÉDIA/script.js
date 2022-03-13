@@ -10,17 +10,16 @@ function calcularMédia(){
   
   // fazendo o calculor da média
   const calculandoMédia = (nota01 + nota02 + nota03 + nota04 ) /4
-  
-  console.log(calculandoMédia)
+  const média = calculandoMédia.toFixed(1)
   
   if (calculandoMédia >= 7 ){
-    pegandoResultado.innerHTML = " Você passou parabéns " ;
+    pegandoResultado.innerHTML = " Você passou parabéns , sua média foi : " + média ;
   }
   else if (calculandoMédia > 10 || calculandoMédia < 0 ){
     pegandoResultado.innerHTML =  " coloque um número decimal entre 0 a 10 " ;
   }
   else{
-    pegandoResultado.innerHTML = " tente novamente no próximo semestre " ;
+    pegandoResultado.innerHTML = " tente novamente no próximo semestre , sua média foi : " + média ;
   }
   
 }
