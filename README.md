@@ -1,6 +1,8 @@
 # Projetos-Alura
 projetos realizados durante o evento da alura
 
+## Aula : 01 VARIÁVEIS, OPERAÇÕES E MÉDIA
+
 ## Aula : 02 CONVERSOR DE MOEDAS 
 
 > link : https://codepen.io/willianglitch/pen/gOXVVQY
