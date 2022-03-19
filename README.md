@@ -8,7 +8,7 @@ projetos realizados durante o evento da alura
 ## Aula : 02 CONVERSOR DE MOEDAS 
 
 > link : https://codepen.io/willianglitch/pen/gOXVVQY
-### image
-
 
 ## Aula : 03 MENTALISTA
+
+> link : https://codepen.io/willianglitch/pen/Rwxwgba
